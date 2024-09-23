@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace Calculos
 {
+	/// <summary>
+    /// Operação soma.
+    /// </summary>
+    /// <returns>Retorna a soma de dois números.</returns>
+
+    /// <summary>
+    /// Operação subtração.
+    /// </summary>
+    /// <returns>Retorna o resultado da subtração de dois números.</returns>
     internal class Program
     {
         static void Main(string[] args)
